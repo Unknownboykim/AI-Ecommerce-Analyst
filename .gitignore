@@ -1,0 +1,7 @@
+.env
+.streamlit/secrets.toml
+data/ecommerce.db
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
